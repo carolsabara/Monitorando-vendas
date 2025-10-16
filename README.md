@@ -6,8 +6,7 @@ Sistema em Python para acompanhar as vendas diárias de um comércio, registrar 
 
 ## Funcionalidades
 - Registro diário de vendas de **bolos, tortas, doces e salgados**.
-- Atualização automática dos totais do mês.
-- Geração de **gráfico de barras** com as vendas acumuladas.
+- Geração de **gráfico de barras** com as vendas.
 - Alertas simples de metas de vendas atingidas.
 
 ---
